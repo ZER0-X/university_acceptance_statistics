@@ -1,11 +1,14 @@
+> **Warning** : This repository/project is no longer maintained. If you are interested, it's free software under the AGPL-3.0 license, so you can create a fork and do any thing you want with it.
+
+
+> **Note** : The project isn't completed. It lacks the `Statistics` page. However, you still can delete it from the flask and html code and use the project as a form only, then extract the data manually from the database as `csv` and create some statistics in something like `LibreOffice Calc`.
+
+Known bugs:
+- It seams that there is a bug in the sex valadation in the backend.
+
 # University Acceptance Statistics
 
 A simple and light Flask web app to create a simple form to collect data from new students in universities that don't publish acceptance info.
-
-
-The project isn't completed. It lacks the `Statistics` page. However, you still can delete it from the flask and html code and use the project as a form only, then extract the data manually from the database as `csv` and create some statistics in something like `LibreOffice Calc`.
-
-It seams that there is a bug in the sex valadation. Maybe at sometime I will solve it or someone will create a pullrequest or something.
 
 # Development
 
