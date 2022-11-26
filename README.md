@@ -1,7 +1,13 @@
 > **Warning** : This repository/project is no longer maintained. If you are interested, it's free software under the AGPL-3.0 license, so you can create a fork and do any thing you want with it.
 
 
+> **Warning** : This software has not gone throw any security test, it may have some security issues.
+
+
 > **Note** : The project isn't completed. It lacks the `Statistics` page. However, you still can delete it from the flask and html code and use the project as a form only, then extract the data manually from the database as `csv` and create some statistics in something like `LibreOffice Calc`.
+
+
+> **Note** : The `Arabic` translation is not completed.
 
 Known bugs:
 - It seams that there is a bug in the sex valadation in the backend.
