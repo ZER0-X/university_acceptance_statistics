@@ -10,6 +10,9 @@ Known bugs:
 
 A simple and light Flask web app to create a simple form to collect data from new students in universities that don't publish acceptance info.
 
+# Screenshots
+![home page screenshot](https://user-images.githubusercontent.com/65136727/204104261-93c665d8-d6e2-423c-80ee-33cb86ba0f78.png)
+
 # Development
 
 ## Create a virtual environment
