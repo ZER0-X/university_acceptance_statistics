@@ -3,8 +3,7 @@
 # This file is distributed under the same license as the PROJECT "university
 # acceptance statistics".
 #
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
-# zer0-x <@zer0-x:matrix.org>, 2021.
+# zer0-x, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
